@@ -1,0 +1,147 @@
+<!--
+  LAURA GONZÁLEZ | GITHUB PROFILE README
+  Dark / Minimal / Futuristic
+-->
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0F14,50:102A43,100:00D9FF&height=180&section=header&text=LAURA%20GONZ%C3%81LEZ&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=ENGINEERING%20%2F%20SOFTWARE%20%2F%20CREATIVITY&descSize=13&descAlignY=60&animation=fadeIn" width="100%" alt="Laura González — Engineering, Software and Creativity"/>
+
+<a href="https://github.com/lfer2003">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=900&color=00D9FF&center=true&vCenter=true&width=600&lines=Mechatronics+Engineering+Student;Building+software+with+purpose;Automation+%2B+Code+%2B+Creative+Thinking;Turning+ideas+into+real+projects" alt="Animated introduction"/>
+</a>
+
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-0B0F14?style=for-the-badge&logo=googlechrome&logoColor=00D9FF)](https://lfer2003.github.io/Pagina-web-reciclaje/)
+[![GitHub](https://img.shields.io/badge/EXPLORE_MY_CODE-0B0F14?style=for-the-badge&logo=github&logoColor=FFFFFF)](https://github.com/lfer2003?tab=repositories)
+[![LinkedIn](https://img.shields.io/badge/LET'S_CONNECT-0B0F14?style=for-the-badge&logo=linkedin&logoColor=00D9FF)](https://www.linkedin.com/)
+
+</div>
+
+---
+
+## `01` — WHO AM I?
+
+I'm a **Mechatronics Engineering student** interested in the intersection of software development, industrial automation and digital design.
+
+My background combines engineering, industrial automation and multimedia production, allowing me to approach problems from both a technical and a creative perspective.
+
+I enjoy turning ideas into functional solutions: from designing an interface to developing the logic behind a system.
+
+```python
+class Laura:
+    def __init__(self):
+        self.field = "Mechatronics Engineering"
+        self.interests = [
+            "Software Development",
+            "Industrial Automation",
+            "Web Technologies",
+            "Creative Technology"
+        ]
+        self.mindset = "Learn. Build. Test. Improve."
+
+    def current_focus(self):
+        return "Building projects that connect code with the real world"
+```
+
+## `02` — TECH STACK
+
+<div align="center">
+
+**LANGUAGES & DEVELOPMENT**
+
+<img src="https://skillicons.dev/icons?i=python,html,css,js,fastapi,git,github,vscode&theme=dark" alt="Python, HTML, CSS, JavaScript, FastAPI, Git, GitHub and VS Code"/>
+
+<br/>
+
+**DATA & ENGINEERING**
+
+<img src="https://skillicons.dev/icons?i=mysql,sqlite,arduino&theme=dark" alt="MySQL, SQLite and Arduino"/>
+
+</div>
+
+<sub>Currently strengthening my skills through hands-on projects. Tools and technologies vary depending on the project.</sub>
+
+## `03` — SELECTED PROJECTS
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### ◈ Smart Warehouse
+
+**Intelligent inventory management**
+
+Developing a warehouse management concept that combines inventory data, location mapping and automation logic.
+
+- Product and stock management
+- Storage location visualization
+- Drawer status and inventory control
+- Exploring software-to-hardware integration
+
+**Focus:** Python · FastAPI · SQL · Automation
+
+</td>
+<td width="50%" valign="top">
+
+### ◈ Digital Experiences
+
+**Design meets development**
+
+Exploring how visual design and front-end development can transform ideas into accessible, responsive web experiences.
+
+- Interface design and layout
+- HTML and CSS implementation
+- Responsive web development
+- Creative digital storytelling
+
+**Focus:** HTML · CSS · UI/UX · Multimedia
+
+[Explore my recycling website →](https://lfer2003.github.io/Pagina-web-reciclaje/)
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+[![Explore Repositories](https://img.shields.io/badge/EXPLORE_ALL_PROJECTS-00D9FF?style=for-the-badge&logo=github&logoColor=0B0F14)](https://github.com/lfer2003?tab=repositories)
+
+</div>
+
+## `04` — GITHUB ACTIVITY
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=lfer2003&show_icons=true&hide_border=true&bg_color=0B0F14&title_color=00D9FF&icon_color=00D9FF&text_color=CBD5E1&rank_icon=github" alt="GitHub profile statistics"/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lfer2003&layout=compact&hide_border=true&bg_color=0B0F14&title_color=00D9FF&text_color=CBD5E1" alt="Most used programming languages"/>
+
+<img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=lfer2003&hide_border=true&background=0B0F14&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=CBD5E1&dates=94A3B8" alt="GitHub contribution streak"/>
+
+</div>
+
+## `05` — BEYOND THE CODE
+
+I believe technology becomes more meaningful when engineering, functionality and creativity work together.
+
+I'm interested in building things that don't just work well, but are also intuitive, thoughtfully designed and useful in the real world.
+
+**My approach:** understand the problem → design the solution → build → test → improve.
+
+---
+
+<div align="center">
+
+### HAVE AN IDEA? LET'S BUILD SOMETHING.
+
+Open to learning, collaborating and exploring new challenges in software, automation and creative technology.
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:102A43,100:0B0F14&height=100&section=footer" width="100%" alt="Decorative blue gradient footer"/>
+
+<sub>Designed with curiosity and built one commit at a time.</sub>
+
+</div>
