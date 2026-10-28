@@ -1,33 +1,32 @@
 <!--
   LAURA GONZÁLEZ | GITHUB PROFILE README
-  Dark / Minimal / Futuristic
+  Dark / Minimal / Futuristic  ·  v2
 -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0F14,50:102A43,100:00D9FF&height=180&section=header&text=LAURA%20GONZ%C3%81LEZ&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=ENGINEERING%20%2F%20SOFTWARE%20%2F%20CREATIVITY&descSize=13&descAlignY=60&animation=fadeIn" width="100%" alt="Laura González — Engineering, Software and Creativity"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0B0F14,50:102A43,100:00D9FF&height=220&section=header&text=LAURA%20GONZ%C3%81LEZ&fontSize=48&fontColor=FFFFFF&fontAlignY=40&desc=ENGINEERING%20%2F%20SOFTWARE%20%2F%20CREATIVITY&descSize=14&descAlignY=62&animation=fadeIn" width="100%" alt="Laura González — Engineering, Software and Creativity"/>
 
 <a href="https://github.com/lfer2003">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=900&color=00D9FF&center=true&vCenter=true&width=600&lines=Mechatronics+Engineering+Student;Building+software+with+purpose;Automation+%2B+Code+%2B+Creative+Thinking;Turning+ideas+into+real+projects" alt="Animated introduction"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3000&pause=900&color=00D9FF&center=true&vCenter=true&width=640&lines=Mechatronics+Engineering+Student;Building+software+with+purpose;Automation+%2B+Code+%2B+Creative+Thinking;Turning+ideas+into+real+projects" alt="Animated introduction"/>
 </a>
 
-<br/>
+<br/><br/>
 
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-0B0F14?style=for-the-badge&logo=googlechrome&logoColor=00D9FF)](https://lfer2003.github.io/Pagina-web-reciclaje/)
 [![GitHub](https://img.shields.io/badge/EXPLORE_MY_CODE-0B0F14?style=for-the-badge&logo=github&logoColor=FFFFFF)](https://github.com/lfer2003?tab=repositories)
-[![LinkedIn](https://img.shields.io/badge/LET'S_CONNECT-0B0F14?style=for-the-badge&logo=linkedin&logoColor=00D9FF)](https://www.linkedin.com/)
+[![LinkedIn](https://img.shields.io/badge/LET'S_CONNECT-0B0F14?style=for-the-badge&logo=linkedin&logoColor=00D9FF)](https://www.linkedin.com/in/TU-USUARIO)
+![Profile views](https://komarev.com/ghpvc/?username=lfer2003&label=PROFILE+VIEWS&color=00D9FF&style=for-the-badge&labelColor=0B0F14)
 
 </div>
 
----
+<br/>
 
 ## `01` — WHO AM I?
 
-I'm a **Mechatronics Engineering student** interested in the intersection of software development, industrial automation and digital design.
+I'm a **Mechatronics Engineering student** working at the intersection of **software development, industrial automation and digital design**.
 
-My background combines engineering, industrial automation and multimedia production, allowing me to approach problems from both a technical and a creative perspective.
-
-I enjoy turning ideas into functional solutions: from designing an interface to developing the logic behind a system.
+My background combines engineering, automation and multimedia production, so I approach problems from both a technical and a creative angle: from designing an interface to building the logic behind a system.
 
 ```python
 class Laura:
@@ -37,33 +36,51 @@ class Laura:
             "Software Development",
             "Industrial Automation",
             "Web Technologies",
-            "Creative Technology"
+            "Creative Technology",
         ]
         self.mindset = "Learn. Build. Test. Improve."
+        self.status = "Open to collaborate 🟢"
 
     def current_focus(self):
         return "Building projects that connect code with the real world"
 ```
 
-## `02` — TECH STACK
+<br/>
 
-<div align="center">
+## `02` — CURRENT FOCUS
 
-**LANGUAGES & DEVELOPMENT**
-
-<img src="https://skillicons.dev/icons?i=python,html,css,js,fastapi,git,github,vscode&theme=dark" alt="Python, HTML, CSS, JavaScript, FastAPI, Git, GitHub and VS Code"/>
+| | |
+|---|---|
+| 🔭 **Building** | Smart Warehouse — inventory management with automation logic |
+| 🌱 **Exploring** | Software-to-hardware integration (FastAPI ↔ Arduino) |
+| 🎨 **Refining** | Responsive, accessible web interfaces |
+| 🤝 **Open to** | Collaborations, internships and new challenges in software & automation |
 
 <br/>
 
-**DATA & ENGINEERING**
+## `03` — TECH STACK
+
+<div align="center">
+
+**LANGUAGES & WEB**
+
+<img src="https://skillicons.dev/icons?i=python,html,css,js,fastapi&theme=dark" alt="Python, HTML, CSS, JavaScript and FastAPI"/>
+
+**DATA & HARDWARE**
 
 <img src="https://skillicons.dev/icons?i=mysql,sqlite,arduino&theme=dark" alt="MySQL, SQLite and Arduino"/>
 
+**TOOLS**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Git, GitHub and VS Code"/>
+
 </div>
 
-<sub>Currently strengthening my skills through hands-on projects. Tools and technologies vary depending on the project.</sub>
+<sub>Always learning through hands-on projects. Tools vary depending on the problem.</sub>
 
-## `03` — SELECTED PROJECTS
+<br/>
+
+## `04` — SELECTED PROJECTS
 
 <table>
 <tr>
@@ -73,14 +90,19 @@ class Laura:
 
 **Intelligent inventory management**
 
-Developing a warehouse management concept that combines inventory data, location mapping and automation logic.
+A warehouse concept that combines inventory data, location mapping and automation logic.
 
 - Product and stock management
 - Storage location visualization
 - Drawer status and inventory control
-- Exploring software-to-hardware integration
+- Software-to-hardware integration
 
-**Focus:** Python · FastAPI · SQL · Automation
+![Python](https://img.shields.io/badge/Python-0B0F14?style=flat-square&logo=python&logoColor=00D9FF)
+![FastAPI](https://img.shields.io/badge/FastAPI-0B0F14?style=flat-square&logo=fastapi&logoColor=00D9FF)
+![SQL](https://img.shields.io/badge/SQL-0B0F14?style=flat-square&logo=mysql&logoColor=00D9FF)
+![Arduino](https://img.shields.io/badge/Arduino-0B0F14?style=flat-square&logo=arduino&logoColor=00D9FF)
+
+[View repository →](https://github.com/lfer2003?tab=repositories)
 
 </td>
 <td width="50%" valign="top">
@@ -89,14 +111,16 @@ Developing a warehouse management concept that combines inventory data, location
 
 **Design meets development**
 
-Exploring how visual design and front-end development can transform ideas into accessible, responsive web experiences.
+Turning ideas into accessible, responsive web experiences where visual design and front-end development work together.
 
 - Interface design and layout
 - HTML and CSS implementation
 - Responsive web development
 - Creative digital storytelling
 
-**Focus:** HTML · CSS · UI/UX · Multimedia
+![HTML](https://img.shields.io/badge/HTML-0B0F14?style=flat-square&logo=html5&logoColor=00D9FF)
+![CSS](https://img.shields.io/badge/CSS-0B0F14?style=flat-square&logo=css3&logoColor=00D9FF)
+![UI/UX](https://img.shields.io/badge/UI%2FUX-0B0F14?style=flat-square&logo=figma&logoColor=00D9FF)
 
 [Explore my recycling website →](https://lfer2003.github.io/Pagina-web-reciclaje/)
 
@@ -104,39 +128,76 @@ Exploring how visual design and front-end development can transform ideas into a
 </tr>
 </table>
 
+### 🧩 How Smart Warehouse works
+
+```mermaid
+flowchart LR
+    A["🖥️ Web Interface<br/>HTML · CSS · JS"] -->|HTTP requests| B["⚙️ FastAPI<br/>Business logic"]
+    B <-->|queries| C[("🗄️ SQL Database<br/>Products & locations")]
+    B -->|commands| D["🔌 Arduino<br/>Automation layer"]
+    D -->|status| E["📦 Drawers<br/>& sensors"]
+    E -.->|feedback| B
+```
+
 <div align="center">
 
 [![Explore Repositories](https://img.shields.io/badge/EXPLORE_ALL_PROJECTS-00D9FF?style=for-the-badge&logo=github&logoColor=0B0F14)](https://github.com/lfer2003?tab=repositories)
 
 </div>
 
-## `04` — GITHUB ACTIVITY
+<br/>
+
+## `05` — HOW I WORK
+
+```mermaid
+flowchart LR
+    A([Understand<br/>the problem]) --> B([Design<br/>the solution])
+    B --> C([Build])
+    C --> D([Test])
+    D --> E([Improve])
+    E -.->|iterate| B
+```
+
+> *Technology becomes more meaningful when engineering, functionality and creativity work together.*
+> I like building things that don't just work well, but are also intuitive, thoughtfully designed and useful in the real world.
+
+<br/>
+
+## `06` — GITHUB ACTIVITY
 
 <div align="center">
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=lfer2003&show_icons=true&hide_border=true&bg_color=0B0F14&title_color=00D9FF&icon_color=00D9FF&text_color=CBD5E1&rank_icon=github" alt="GitHub profile statistics"/>
-
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lfer2003&layout=compact&hide_border=true&bg_color=0B0F14&title_color=00D9FF&text_color=CBD5E1" alt="Most used programming languages"/>
 
-<img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=lfer2003&hide_border=true&background=0B0F14&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=CBD5E1&dates=94A3B8" alt="GitHub contribution streak"/>
+<br/>
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=lfer2003&bg_color=0B0F14&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&area_color=00D9FF&hide_border=true" alt="Contribution activity graph"/>
 
 </div>
 
-## `05` — BEYOND THE CODE
+<!--
+  OPTIONAL: Snake animation (requires a GitHub Action, see instructions)
+  <div align="center">
+    <img src="https://raw.githubusercontent.com/lfer2003/lfer2003/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake"/>
+  </div>
+-->
 
-I believe technology becomes more meaningful when engineering, functionality and creativity work together.
+<br/>
 
-I'm interested in building things that don't just work well, but are also intuitive, thoughtfully designed and useful in the real world.
-
-**My approach:** understand the problem → design the solution → build → test → improve.
-
----
+## `07` — LET'S CONNECT
 
 <div align="center">
 
 ### HAVE AN IDEA? LET'S BUILD SOMETHING.
 
 Open to learning, collaborating and exploring new challenges in software, automation and creative technology.
+
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-00D9FF?style=for-the-badge&logo=googlechrome&logoColor=0B0F14)](https://lfer2003.github.io/Pagina-web-reciclaje/)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0B0F14?style=for-the-badge&logo=linkedin&logoColor=00D9FF)](https://www.linkedin.com/in/TU-USUARIO)
+[![Email](https://img.shields.io/badge/EMAIL-0B0F14?style=for-the-badge&logo=gmail&logoColor=00D9FF)](mailto:TU-CORREO@ejemplo.com)
 
 <br/>
 
